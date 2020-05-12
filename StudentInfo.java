@@ -16,9 +16,7 @@ public class StudentInfo {
     public static void display() {
 
         System.out.println("************************************************************");
-        System.out.println("*  Gyse Martine Jean Louis                                 *");
-        System.out.println("*    300049630                                             *");
-        System.out.println("*    Ndagang Nguimfack Geraud                               *");
+        System.out.println("*    Ndagang Nguimfack Geraud                              *");
         System.out.println("*    300105965                                             *");
         System.out.println("************************************************************");
         System.out.println();
