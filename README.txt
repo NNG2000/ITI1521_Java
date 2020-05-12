@@ -12,3 +12,5 @@ StudentInfo.java, TicTacToe.java, TicTacToeGame.java, Utils.java
 - Q2 qui contient: CellValue.java, GameState.java, ListOfGamesGenerator.java, StudentInfo.java, TicTacToe.java,
  TicTacToeGame.java, Utils.java
 - Q3 ne contient rien.
+
+Now I will modifie this file for the rebase
